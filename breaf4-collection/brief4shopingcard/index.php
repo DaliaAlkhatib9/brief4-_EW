@@ -584,11 +584,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p1.png" alt="">
+                        <img src="images/p1.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                      SunGlass
                         </h5>
                         <h6>
                            $75
@@ -609,11 +609,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p2.png" alt="">
+                        <img src="images/p2.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                   SunGlass
                         </h5>
                         <h6>
                            $80
@@ -634,11 +634,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p3.png" alt="">
+                        <img src="images/p3.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                 SunGlass
                         </h5>
                         <h6>
                            $68
@@ -659,11 +659,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p4.png" alt="">
+                        <img src="images/p4.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                        Ring Rows
                         </h5>
                         <h6>
                            $70
@@ -684,11 +684,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p5.png" alt="">
+                        <img src="images/p5.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                         Rings Rows
                         </h5>
                         <h6>
                            $75
@@ -709,11 +709,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p6.png" alt="">
+                        <img src="images/p6.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                  Rings Rows
                         </h5>
                         <h6>
                            $58
@@ -734,11 +734,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p7.png" alt="">
+                        <img src="images/p7.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                         SunGlass
                         </h5>
                         <h6>
                            $80
@@ -759,11 +759,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p8.png" alt="">
+                        <img src="images/p8.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                      SunGlass
                         </h5>
                         <h6>
                            $65
@@ -784,11 +784,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p9.png" alt="">
+                        <img src="images/p9.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                      SunGlass
                         </h5>
                         <h6>
                            $65
@@ -809,11 +809,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p10.png" alt="">
+                        <img src="images/p10.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                      Rings
                         </h5>
                         <h6>
                            $65
@@ -834,11 +834,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p11.png" alt="">
+                        <img src="images/p11.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Men's Shirt
+                         Rings
                         </h5>
                         <h6>
                            $65
@@ -859,11 +859,11 @@
                         </div>
                      </div>
                      <div class="img-box">
-                        <img src="images/p12.png" alt="">
+                        <img src="images/p12.jpg" alt="">
                      </div>
                      <div class="detail-box">
                         <h5>
-                           Women's Dress
+                          Opening Rings
                         </h5>
                         <h6>
                            $65
